@@ -1,9 +1,4 @@
-![header](https://capsule-render.vercel.app/api?
-type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
-&center=false&vCenter=false&multiline=true&repeat=true&width=1000
-&height=100&lines=Welcome+to+Sunwoo's+GitHub!👋)]
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome+to+Sunwoo's%20%20Github👋&fontAlign=50&fontSize=31&reversal=true&fontAlignY=50)
 
 ## Profile
 -EE & CSE Senior in KyungHee Univ, Korea
