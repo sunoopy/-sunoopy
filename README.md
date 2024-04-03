@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Sunwoo%20Kang&textBg=false&reversal=true)
+![header](https://capsule-render.vercel.app/api?
+type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?
+font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
+&center=false&vCenter=false&multiline=true&repeat=true&width=1000
+&height=100&lines=Welcome+to+Sunwoo's+GitHub!👋)](https://git.io/typing-svg)
+
+## Profile
 -EE & CSE Senior in KyungHee Univ, Korea
 
 ## Interest
@@ -8,9 +15,9 @@
 -Multimedia System, Image Processing
 -AIOT Technique using Arduino, Raspberry Pi
 
-## Here are some of my skills:
+## Skills:
 - Programming Languages: Python, C, C++
-- Database Management: SQL,
+- Database Management: SQL
 - Other Tools: Git, AWS, GCP
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunoopy.tistory.com/)](https://sunoopy.tistory.com/)
