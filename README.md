@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Sunwoo%20Kang&textBg=false&reversal=true
+[https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Sunwoo%20Kang&textBg=false&reversal=true](https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&text=Sunwoo%20Kang&textBg=false&reversal=true)
 -EE & CSE Senior in KyungHee Univ, Korea
 
 ## Interest
