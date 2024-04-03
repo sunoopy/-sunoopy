@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome+to+Sunwoo's%20%20Github👋&fontAlign=50&fontSize=31&reversal=true&fontAlignY=50)
 
 ## Interest
--Digital Communication System
--Cloud Computing and Mobile Caching
--Federated learning, Split Learning
--Multimedia System, Image Processing
--AIOT Technique using Arduino, Raspberry Pi
+- Digital Communication System
+- Cloud Computing and Mobile Caching
+- Federated learning, Split Learning
+- Multimedia System, Image Processing
+- AIOT Technique using Arduino, Raspberry Pi
 
 ## Skills:
 - Programming Languages: Python, C, C++
