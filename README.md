@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome+to+Sunwoo's%20%20Github👋&fontAlign=50&fontSize=31&reversal=true&fontAlignY=50)
 
-## Profile
--EE & CSE Senior in KyungHee Univ, Korea
-
 ## Interest
 -Digital Communication System
 -Cloud Computing and Mobile Caching
