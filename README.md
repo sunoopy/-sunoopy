@@ -11,7 +11,7 @@
 - Programming Languages: Python, C, C++, C#
 - Database Management: SQL
 - Other Tools: Git, AWS, GCP, Linux 
-- 
+
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunoopy.tistory.com/)](https://sunoopy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swkang.official@gmail.com)](mailto:swknag.official@gmail.com)
