@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome+to+Sunwoo's%20%20Github👋&fontAlign=50&fontSize=31&reversal=true&fontAlignY=50)
 
 ## Interest
-- Federated learning, Split Learning, Edge Computing
-  6G Network with MEC, Block Chain Integrated system Infrastructure
-- AIOT network with Arduino, Raspberry Pi, Jetson Nano
+- Federated learning,Hierarchical Federated Learning
+- MEC, Block Chain Integrated system Infrastructure 
+- AIOT networking technique w/ Arduino, Raspberry Pi, Jetson Nano
 - Multimedia System, Image Processing
 - Mobile Caching
 
