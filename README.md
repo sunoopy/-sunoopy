@@ -2,16 +2,16 @@
 
 ## Interest
 - Federated learning, Split Learning, Edge Computing
-- MEC, Federated Learning, Block Chain Convergence
-- AIOT networking with Arduino, Raspberry Pi
+  6G Network with MEC, Block Chain Integrated system Infrastructure
+- AIOT network with Arduino, Raspberry Pi, Jetson Nano
 - Multimedia System, Image Processing
-- Digital Communication System
 - Mobile Caching
 
 ## Skills:
-- Programming Languages: Python, C, C++
+- Programming Languages: Python, C, C++, C#
 - Database Management: SQL
-- Other Tools: Git, AWS, GCP
+- Other Tools: Git, AWS, GCP, Linux 
+- 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunoopy.tistory.com/)](https://sunoopy.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swkang.official@gmail.com)](mailto:swknag.official@gmail.com)
