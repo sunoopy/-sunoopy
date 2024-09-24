@@ -3,14 +3,15 @@
 ## Interest
 - Federated learning, Hierarchical Federated Learning
 - MEC, Block Chain Integrated System Infrastructure 
-- AIOT Network Technique w/ Arduino, Raspberry Pi, Jetson Nano
+- AIoT Network Technique w/ Arduino, Raspberry Pi, Jetson Nano
 - Multimedia System, Image Processing
 - Mobile Caching
 
 ## Skills:
-- Programming Languages: Python, C, C++, C#
+- Primary Programming Language: Python, C++
+- Secondary Programming Languages: C, C#, Java
 - Database Management: SQL
-- Other Tools: Git, AWS, GCP, Linux, Unity, Packet Tracer
+- Other Tools: Git, AWS, GCP, Linux, Unity, Packet Tracer, Android Studio
 
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sunoopy.tistory.com/)](https://sunoopy.tistory.com/)
